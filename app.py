@@ -85,7 +85,7 @@ st.markdown("""
 st.info("👨‍💻 Made by Ashutosh Pandey — LLM Developer & AI Innovator")
 
 
-st.image("assets/pytosh_logo.png", use_container_width=False, width=200)
+st.image("pytosh_logo.png", use_container_width=False, width=200)
 
 st.title("🐍 PyTosh - Learn Python with Confidence")
 st.caption("Built for students & beginners who fear Python ✨")
