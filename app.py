@@ -40,7 +40,7 @@ st.markdown("""
 </style>
 
 <div class="floating-yt-button">
-    <a href="www.youtube.com/@GenesisProtocol.AIgenz" target="_blank">
+    <a href="https://youtube.com/@genesisprotocol.aigenz?si=BVz1aYjXIibbz93r" target="_blank">
         ▶️ Watch on YouTube
     </a>
 </div>
