@@ -3,7 +3,7 @@
 **PyTosh** is an AI-powered, beginner-friendly code editor built with Streamlit — designed to help students learn Python with confidence.  
 It detects errors, fixes code, and explains logic using state-of-the-art LLMs like **Code LLaMA** and **Mixtral**.
 
-![PyTosh Logo](pytosh_logo.png,width=100)
+![PyTosh Logo](pytosh_logo.png) width=100)
 
 ---
 
